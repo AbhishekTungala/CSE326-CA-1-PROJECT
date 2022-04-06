@@ -8,11 +8,6 @@
 
 
 
-![Followers](https://img.shields.io/github/followers/CodingNinjas-LPU?style=plastic&color=white=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Techahead?affiliations=OWNER&style=social)
-<img src="https://komarev.com/ghpvc/?username=CodingNinjas-LPU" alt="CodingNinjas" /> 
-  
-  </p>
 
 
 
