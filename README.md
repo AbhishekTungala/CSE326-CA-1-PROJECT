@@ -1,5 +1,18 @@
+<p align="center">
+<a><img src="https://abhishektungala.github.io/CSE326-CA-1-PROJECT/images/Abhi%20AD'S.png" width="300px"> </a>
+  
 
-# Abhi AD's
+  </p>
+
+<h1 align="center">Welcome You<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+
+
+![Followers](https://img.shields.io/github/followers/CodingNinjas-LPU?style=plastic&color=white=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Techahead?affiliations=OWNER&style=social)
+<img src="https://komarev.com/ghpvc/?username=CodingNinjas-LPU" alt="CodingNinjas" /> 
+  
+  </p>
 
 
 
