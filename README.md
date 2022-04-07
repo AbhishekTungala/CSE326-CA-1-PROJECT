@@ -28,11 +28,6 @@ Javascript, HTML, CSS...
 → Facebook : Abhishek Tungala  
 → Twitter : @abhishektungala
 
-## 
-
-
-
-
 
 ## 💻Project Link!
 https://abhishektungala.github.io/CSE326-CA-1-PROJECT/
